@@ -7,8 +7,4 @@ Initial Commit
 첫수정
 2
 3
-ka2
-4
-5
-22
 Hello2
