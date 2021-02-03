@@ -1,5 +1,4 @@
 Initial Commit
-A
 B
 C
 기능1
