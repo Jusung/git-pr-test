@@ -1,7 +1,6 @@
 Initial Commit
 Hello World
 - 삼룡이 입니다.
-4
 1
 둘째수정
 첫수정
