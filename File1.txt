@@ -1,7 +1,6 @@
 Initial Commit
 Hello World
 1
-첫수정
 3
 ka1
 4
