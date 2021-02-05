@@ -1,6 +1,5 @@
 Initial Commit
 Hello World
-ka1
 4
 5
 ㅣ1
