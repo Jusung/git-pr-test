@@ -1,7 +1,6 @@
 Initial Commit
 Hello World
 기능을 추가해 봤습니다.
-- 삼룡이 입니다.
 4
 1
 둘째수정
