@@ -4,6 +4,7 @@ Initial Commit
 - 모델 수정
 - API 적용
 - 디자인 수정
+- 코드 정리
 3
 Sometimes
 허허
