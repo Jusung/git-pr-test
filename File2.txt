@@ -1,6 +1,7 @@
 Initial Commit
 1
 2
+- 모델 수정
 3
 Sometimes
 허허
