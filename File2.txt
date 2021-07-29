@@ -2,6 +2,7 @@ Initial Commit
 1
 2
 - 모델 수정
+- API 적용
 3
 Sometimes
 허허
